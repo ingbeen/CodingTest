@@ -5,7 +5,7 @@ String[] phone_book = {"123", "456", "789"};
 String[] phone_book = {"12", "123", "1235", "567", "88"};
 */
 
-public class telListLevel2_Solution2 {
+public class TelListLevel2_Solution2 {
 	public static boolean solution(String[] phone_book) {
 		boolean answer = true;
 		

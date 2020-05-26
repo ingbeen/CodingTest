@@ -29,9 +29,9 @@ phone_book					return
 첫 번째 전화번호, “12”가 두 번째 전화번호 “123”의 접두사입니다. 따라서 답은 false입니다.
 */
 
-public class telListLevel2_RunApp {
+public class TelListLevel2_RunApp {
 	public static void main(String[] agrs) {
     	String[] phone_book = {"119", "97674223", "1195524421"};
-    	System.out.println(telListLevel2_Solution2.solution(phone_book));
+    	System.out.println(TelListLevel2_Solution2.solution(phone_book));
     }
 }

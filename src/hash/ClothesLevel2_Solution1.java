@@ -13,7 +13,7 @@ String[][] clothes = {{"crow_mask", "face"}, {"blue_sunglasses", "face"},
     			
 */
 
-public class clothesLevel2_Solution1 {
+public class ClothesLevel2_Solution1 {
 	public static int solution(String[][] clothes) {
 		int answer = 0;
 		

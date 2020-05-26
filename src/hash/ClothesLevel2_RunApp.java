@@ -45,10 +45,10 @@ face에 해당하는 의상이 crow_mask, blue_sunglasses, smoky_makeup이므로 아래와 같�
 3. smoky_makeup
 */
 
-public class clothesLevel2_RunApp {
+public class ClothesLevel2_RunApp {
 	public static void main(String[] agrs) {
     	String[][] clothes = {{"yellow_hat", "headgear"}, {"blue_sunglasses", "eyewear"}, 
     			{"green_turban", "headgear"}};
-    	System.out.println(clothesLevel2_Solution1.solution(clothes));
+    	System.out.println(ClothesLevel2_Solution1.solution(clothes));
     }
 }
